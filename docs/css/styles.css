@@ -1,0 +1,17 @@
+header, section, footer, aside, nav {
+    display: block;
+}
+* {
+    font-family:'Courier New', Courier, monospace;
+}
+
+.setlists {
+    width: 90%;
+    border: 1px solid #654;
+    background-color: aliceblue;
+    padding: 3%;
+}
+
+table {
+    width: 90%;
+}
