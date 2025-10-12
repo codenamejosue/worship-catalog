@@ -9,9 +9,25 @@ header, section, footer, aside, nav {
     width: 90%;
     border: 1px solid #654;
     background-color: aliceblue;
-    padding: 3%;
+    padding: 1%;
 }
 
+.setlists article hgroup{
+    text-align: center;
+}
 table {
     width: 90%;
+    text-transform: capitalize;
+}
+td {
+    width: 45%;
+}
+th {
+    text-transform: uppercase;
+    border-bottom: 1px solid;
+}
+
+nav li {
+    display: inline;
+    margin-right: 5%;
 }
