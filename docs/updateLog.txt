@@ -10,4 +10,5 @@ Purpose:
     Man this sucks
 
     Goal(s):
-        -> Organize current repitoir(e?) into alphabetical folders
+        -> Organize current repitoir(e?) into alphabetical folders [Done: YES]
+    
