@@ -4,6 +4,16 @@ Purpose:
     -> Leaving notes for the next time I'm working on the project
     -> Documenting goals for each session
 
+<ARCHIVE UPDATE> 10/8/2025
+    personally I think I should seperate the songs by name alphabetically
+    there should also be a list of the most recent songs
+    honestly an area of the website where there's old setlists would be cool too
+    much to think about, even more to do.
+
+    I'm going back on my no scale rule. It's literally part of the song in Santo Jesus
+    In other news there's no way I'm gonna put minimal updates on here
+    Only my bigger thoughts. I hope I can at least stick with this
+
 10/29/2025
 
     It's been like a week dawg, wtf was I working on lol
@@ -19,3 +29,18 @@ Purpose:
     Goal(s)
         -> Write transcripts [Done: 2! YES]
         -> Start working on making the repetoire page look nice [Done: NO]
+
+11/04/2025
+
+    I'm,,,disappointed I let so much time pass.
+    Here's to hoping I get something accomplished tonight
+
+    Goal(s)
+        - Start working on making the repetoire page look nice          [Done: In-Progress]
+        - Update previous week lists                                    [Done: YES]
+            - This means (finally) making the "previous set lists" page [Done: YES]
+    
+    Next-Session Thoughts:
+        - Work on "current page" indicator
+        - finalize ideal setlist box size+color
+        - Finish css files for all html pages, perhaps start catagories

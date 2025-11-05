@@ -1,0 +1,7 @@
+header, section, footer, aside, nav {
+    display: block;
+}
+
+.shortcut-toc {
+    text-align: center;
+}
