@@ -2,6 +2,20 @@ header, section, footer, aside, nav {
     display: block;
 }
 
-.shortcut-toc {
+
+
+.shortcut-toc ul li{
+    display: inline;
+}
+
+.shortcut-toc ul {
+    padding: 0%;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+h4 {
     text-align: center;
 }

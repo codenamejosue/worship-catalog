@@ -44,3 +44,17 @@ Purpose:
         - Work on "current page" indicator
         - finalize ideal setlist box size+color
         - Finish css files for all html pages, perhaps start catagories
+
+11/05/2025
+
+    Wooo! Alright, let's start
+
+    Goal(s)
+        - Work on "current page" indicator                               [Done: Went to Sleep]
+
+11/06=8/2025
+
+    Short sesh, I just want to center nav
+
+    Goal(s)
+        - Center Nav                                                     [Done: YES]
