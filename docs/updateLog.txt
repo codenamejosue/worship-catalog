@@ -58,3 +58,10 @@ Purpose:
 
     Goal(s)
         - Center Nav                                                     [Done: YES]
+
+11/12/2025
+
+    Got really great news today, will try to focus on css stuff today
+
+    Goal(s)
+        - uhhhhhh make things look prettier                              [Done: YES? YES]

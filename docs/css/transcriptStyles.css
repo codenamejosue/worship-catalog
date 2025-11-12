@@ -2,8 +2,10 @@ header, section, footer, aside, nav {
     display: block;
 }
 
-
-
+.songlist-alphabetical {
+    width: 90%;
+    columns: 2;
+}
 .shortcut-toc ul li{
     display: inline;
 }
