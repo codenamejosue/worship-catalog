@@ -14,6 +14,7 @@ header {
 }
 
 /* css for each setlist */
+/* Used for main setlist page AND past set list page*/
 article {
     border: 1px solid black;
     background-color: #B6CEB4;
@@ -22,8 +23,7 @@ article {
     margin: auto;
     margin-bottom: 3%;
 }
-
-.setlists article hgroup{
+hgroup{
     text-align: center;
 }
 table {
@@ -39,6 +39,7 @@ th {
     text-transform: uppercase;
     border-bottom: 1px solid;
 }
+/* css setlist END */
 
 nav li {
     display: inline;
@@ -53,4 +54,12 @@ nav ul {
 
 a {
     text-decoration: none;
+}
+
+footer {
+    text-align: center;
+}
+
+aside {
+    text-align: center;
 }

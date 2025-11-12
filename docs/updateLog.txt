@@ -59,9 +59,30 @@ Purpose:
     Goal(s)
         - Center Nav                                                     [Done: YES]
 
-11/12/2025
+11/11/2025
 
     Got really great news today, will try to focus on css stuff today
 
     Goal(s)
         - uhhhhhh make things look prettier                              [Done: YES? YES]
+
+11/12/2025
+
+    The deceit begins 
+    Time to prep
+
+    Goal(s)
+        - Write transcripts for upcoming songs (11/16/2025 Adoración setlist)       [Done: Halfway]
+        - Update blog (update recent setlist, move old one to past set lists page)  [Done: YES]
+        
+    Thoughts
+        - Wondering if I should add the intro/solo chord progressions, since they're usually
+            different from the chord progression of any of the other parts
+        - Wonder if I should group up the previous set lists by month
+        - DO NOT EVER ADD PEOPLE'S NAMES TO THE WEBSITE. NEVER!
+        - Am gonna have to standardize the transcripts, they're not identical as of right now
+
+    Next Session Thoughts:
+        - Work on current page indication
+        - Standarizing transcipts - consider writing a txt file with the rules & copy-paste stuff
+        - continue fine-tuning each page for max. "niceness"
