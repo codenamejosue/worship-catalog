@@ -63,3 +63,9 @@ footer {
 aside {
     text-align: center;
 }
+
+/* Current Page Indicator */
+#current-page {
+    visibility: hidden;
+    opacity: 0;
+}

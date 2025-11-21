@@ -86,3 +86,13 @@ Purpose:
         - Work on current page indication
         - Standarizing transcipts - consider writing a txt file with the rules & copy-paste stuff
         - continue fine-tuning each page for max. "niceness"
+
+11/20/2025
+
+    Welcome back!
+
+    Goal(s)
+        [+] Update recent setlists
+        [+] Correct full list link
+        [+] Make a current page indicator/Update pages to reflect
+        [ ] Write Transcripts (Goal: 5?)
