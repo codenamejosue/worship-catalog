@@ -1,5 +1,7 @@
-Poderoso Dios
-Key: G
+Título: Poderoso Dios
+Artísta: Dominio Publico
+Nota: G
+
 
 [Verso]
             G             Em
@@ -31,5 +33,9 @@ Mi alma clama por Ti
 
 
 
-Este fichero es trabajo propio de su transcriptor y representa su interpretación personal de la canción. El material contenido en esta página es
-para exclusivo uso privado, por lo que se prohibe su reproducción o retransmisión, así como su uso para fines comerciales.
+
+
+Este fichero es trabajo propio de su transcriptor y representa su interpretación personal de la canción. 
+El material contenido en esta página es
+para exclusivo uso privado, por lo que se prohibe su reproducción o retransmisión, 
+así como su uso para fines comerciales.

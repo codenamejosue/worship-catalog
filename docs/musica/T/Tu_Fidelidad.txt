@@ -1,4 +1,4 @@
-Tu Fidelidad 
+Título: Tu Fidelidad 
 Artísta: Marcos Witt
 Nota: D
 
@@ -10,6 +10,8 @@ Bm              Em
 Nadie como Tú, bendito Dios 
 A                   D
 Grande es Tu fidelidad 
+
+
 
 
 

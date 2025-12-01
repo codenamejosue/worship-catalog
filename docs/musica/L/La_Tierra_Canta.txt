@@ -1,6 +1,7 @@
-La Tierra Canta
+Título: La Tierra Canta
 Artísta: Barak
 Nota Original: Bm
+
 
 [Verso]
 Bm
@@ -42,6 +43,8 @@ Cantamos a una sola voz
 ¡Santo!
   A/C#
 ¡Santo!
+
+
 
 
 

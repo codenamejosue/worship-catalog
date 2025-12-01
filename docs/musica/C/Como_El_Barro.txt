@@ -1,4 +1,4 @@
-Nombre: Como el Barro
+Título: Como el Barro
 Artísta: Inmer Benitez
 Nota Original: D
 
@@ -29,7 +29,7 @@ Así eres tú, si en tu vida no está Dios
 [Verso II]
           D                    F#m/C# 
 Te amo, Cristo. Yo sé que tu palabra
-      [D/F#] G          A              D    A
+      [D/F#] G          A              D      A
 Me ha hecho libre Señor,   me ha hecho libre
 
         D                      F#m/C#  [D/F#]
